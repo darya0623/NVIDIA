@@ -1,2 +1,2 @@
-# Nvidia-
+# NVIDIA
 25th lesson
